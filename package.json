@@ -1,0 +1,27 @@
+
+{
+  "name": "bs-random",
+  "version": "1.0.0",
+
+  "author": "Broken Shotgun",
+
+  "keywords": [
+    "hubot",
+    "random",
+    "groups",
+    "lists",
+    "answers"
+  ],
+
+  "description": "Solve indecivsiveness by random choice; make a list, get an answer",
+
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/brokenshotgun/bs-random/raw/master/LICENSE"
+  }],
+
+  "repository" : {
+    "type": "git",
+    "url": "https://github.com/brokenshotgun/bs-random.git"
+  }
+}
