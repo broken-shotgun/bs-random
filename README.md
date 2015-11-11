@@ -7,12 +7,12 @@ See [`src/random.coffee`](src/random.coffee) for full documentation.
 ## Installation
 In hubot project repo, run:
 
-`npm install bs-random --save`
+`npm install hubot-bs-random --save`
 
-Then add **bs-random** to your `external-scripts.json`:
+Then add **hubot-bs-random** to your `external-scripts.json`:
 
 ```json
 [
-  "bs-random"
+  "hubot-bs-random"
 ]
 ```
