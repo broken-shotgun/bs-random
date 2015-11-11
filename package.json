@@ -1,10 +1,11 @@
 {
   "name": "hubot-bs-random",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Broken Shotgun",
   "keywords": [
     "hubot",
     "random",
+    "choice",
     "groups",
     "lists",
     "answers"
@@ -12,12 +13,12 @@
   "description": "Solve indecivsiveness by random choice; make a list, get an answer",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brokenshotgun/bs-random.git"
+    "url": "git+https://github.com/broken-shotgun/bs-random.git"
   },
   "bugs": {
-    "url": "https://github.com/brokenshotgun/bs-random/issues"
+    "url": "https://github.com/broken-shotgun/bs-random/issues"
   },
-  "homepage": "https://github.com/brokenshotgun/bs-random#readme",
+  "homepage": "https://github.com/broken-shotgun/bs-random#readme",
   "main": "index.coffee",
   "license": "MIT"
 }
